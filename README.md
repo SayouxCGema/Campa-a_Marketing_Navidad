@@ -1,10 +1,11 @@
 # Campaña_Marketing_Navidad
-Proyecto de análisis para ayudar al departamento de marketing a definir el cliente que tiene mayores probabilidades de realizar la oferta de la campaña de navidad.
+Proyecto de análisis para ayudar al departamento de marketing a definir el cliente que tiene mayores probabilidades de realizar la oferta de la campaña de Navidad.
 
-Acerca del conjunto de datos
-Una gran supermercado está planeando las rebajas de fin de año. Quieren lanzar una nueva oferta: la afiliación de oro, que ofrece un 20% de descuento en todas las compras, por sólo 499 €, que son 999 € en otros días. Sólo será válida para los clientes actuales, para los que se está planeando una campaña de llamadas telefónicas.
+Acerca del conjunto de datos:
+- Un gran supermercado está planeando las rebajas de fin de año. Quieren lanzar una nueva oferta: la afiliación de oro, que ofrece un 20% de descuento en todas las compras, por solamente 499 €, que son 999 € en otros días. Solo será válida para los clientes actuales, para los que se está planeando una campaña de llamadas telefónicas.
 
 La dirección considera que la mejor manera de reducir el coste de la campaña es realizar un modelo predictivo que clasifique a los clientes que podrían comprar la oferta.
+
 [Source](https://www.kaggle.com/datasets/ahsan81/superstore-marketing-campaign-dataset/data)
 
 ### Objetivo
